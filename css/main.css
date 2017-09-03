@@ -95,7 +95,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+/* Adds background image to Hero Image */
+#heroimg {
+    background-image: url(../img/hero-image.jpg);
+}
 
 
 
